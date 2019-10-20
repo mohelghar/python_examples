@@ -8,6 +8,7 @@ This repo contains the source code of some basic examples for python programming
 
 1) ex01_print
 2) ex02_plot 
+3) ex03_add
 
 ## Instructions
 
