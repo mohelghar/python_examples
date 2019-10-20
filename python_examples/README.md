@@ -2,13 +2,16 @@
 
 This is the repo for Python examples. 
 
-This repo contains the source code of a basic examples that will be used throughout the course.
+This repo contains the source code of some basic examples for python programming.
 
 ## Table of Contents
 
-
+1) ex01_print
+2) ex02_plot 
 
 ## Instructions
+
+The examples are verified using Python 3.6
 
 
 
